@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElijahFMA
-- 👀 I’m interested in hacking, Web development, UI/UX design and programming as a whole
-- 🌱 I’m currently learning web development 
+- 👀 Programming
+- 🌱 I’m currently learning CSS\JAVA SCRIPT
 - 💞️ I’m looking to collaborate on ...any projects 
 - 📫 How to reach me ... az.elijah101@gmail.com
 <!---
